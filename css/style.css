@@ -575,6 +575,7 @@ body::after {
 }
 
 .item-slider--big__pagintaion {
+  width: 100%;
   margin: 2.25rem 0px 0px 0px;
 }
 
