@@ -1783,6 +1783,8 @@ body::after {
 .seo a {
   font-weight: 600;
   text-decoration: underline;
+  -webkit-transition: .2s;
+  transition: .2s;
 }
 
 .seo ul li {
@@ -5696,6 +5698,7 @@ body::after {
   }
 
   .seo a:hover {
+    color: #683a22;
     text-decoration: none;
   }
 
